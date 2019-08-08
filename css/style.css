@@ -39,6 +39,17 @@
 /*----------------------------------------------------
 	SITE MAIN STRUCTURE
 ------------------------------------------------------*/
+#app{
+	font-weight: bold;
+	color: #004d40;
+}
+
+#logoimg{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
 
 .site_wrapper {
 	width: 100%;
@@ -71,15 +82,16 @@
 
 .content_fullwidth h1{
 	text-align: center;
-	font-family: "Orbitron";
+	font-family: "Cabin Sketch";
 	color: #2e7d32;
 }
 
 .content_fullwidth #app{
 	text-align: center;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 14pt;
-	color: #050505;
+	font-weight: bold;
+	color: #004d40;
 }
 
 .content_fullwidth.less {
@@ -679,7 +691,7 @@
 	text-align: right;
 	padding-right: 21px;
 	padding-top: 7px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	position: relative;
 	z-index: 9999;
 }
@@ -983,7 +995,7 @@
 	border-radius: 2px;
 	margin-right: 30px;
 	margin-top: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 13px;
 	font-weight: 500;
 	transition: all 0.3s ease;
@@ -1012,7 +1024,7 @@
 .menu_rlinks {
 	float: right;
 	width: 16%;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0.3px;
 	font-weight: 300;
 }
@@ -1040,7 +1052,7 @@
 }
 .menu_rlinks2 a {
 	color: #fff;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 13px;
 	font-weight: 600;
 	border: 1px solid #ccc;
@@ -1060,7 +1072,7 @@
 }
 .menu_rlinks3 a {
 	color: #fff;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 13px;
 	font-weight: 600;
 	padding: 10px 16px;
@@ -1080,7 +1092,7 @@
 }
 .menu_rlinks4 a {
 	color: #fff;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 13px;
 	font-weight: 500;
 	padding: 9px 18px;
@@ -1101,7 +1113,7 @@
 .menu_rlinks5 a {
 	float: right;
 	color: #fff;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 18px;
 	font-weight: 500;
 	padding: 39px 27px 38px 27px;
@@ -1130,7 +1142,7 @@
 }
 .menu_rlinks6 a {
 	color: #eb9532;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 13px;
 	font-weight: 500;
 	padding: 9px 18px;
@@ -1171,7 +1183,7 @@
 .menu_rlinks7 a {
 	float: right;
 	color: #fff;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 23px;
 	font-weight: 500;
 	padding: 27px 67px 27px 34px;
@@ -1353,7 +1365,7 @@
 .featured_section3 span {
 	float: left;
 	width: 100%;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	margin-bottom: 30px;
 	margin-top: 27px;
 }
@@ -1564,7 +1576,7 @@
 	font-weight: bold;
 	display: block;
 	margin: 25px 0px 50px 0px;
-	font-family: 'Blinker', cursive;
+	font-family: 'Poppins', cursive;
 }
 .featured_section8 .puhtext p {
 	width: 80%;
@@ -1886,7 +1898,7 @@
 	font-size: 27px;
 	font-weight: bold;
 	line-height: 38px;
-	font-family: 'Blinker', cursive;
+	font-family: 'Poppins', cursive;
 }
 .featured_section16 .box {
 	float: left;
@@ -2113,7 +2125,7 @@
 	font-size: 27px;
 	line-height: 38px;
 	font-style: italic;
-	font-family: 'Blinker', cursive;
+	font-family: 'Poppins', cursive;
 	margin-top: 50px;
 	margin-bottom: 0px;
 	line-height: 27px;
@@ -2798,7 +2810,7 @@
 .featured_section38 b {
 	font-size: 37px;
 	font-weight: bold;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 .featured_section38 a {
 	float: right;
@@ -5695,7 +5707,7 @@
 .featured_section128 strong {
 	float: left;
 	margin-right: 30px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	color: #ccc;
 	font-size: 40px;
 	font-weight: 300;
@@ -5790,7 +5802,7 @@
 	color: #3498db;
 	font-size: 40px;
 	font-weight: 800;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	display: block;
 	text-align: center;
 	margin-bottom: 45px;
@@ -5871,7 +5883,7 @@
 	background: #343b40;
 	text-align: center;
 	border-radius: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 .featured_section133 .box.last {
 	margin-right: 0;
@@ -6111,7 +6123,7 @@
 	background-repeat:no-repeat;
 	background-position:100% 0;
 	background-position: center;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 .featured_section138 ul.left {
@@ -6394,7 +6406,7 @@
 	width: 100%;
 	background: #f3f3f3;
 	padding: 81px 0px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 .domserch .inp1 {
 	float: left;
@@ -6407,7 +6419,7 @@
 	border-right: none;
 	border-top-left-radius: 3px;
 	border-bottom-left-radius: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 .domserch .inpubmit {
 	float: left;
@@ -6418,7 +6430,7 @@
 	background: #3498db;
 	border: none;
 	text-transform: uppercase;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: bold;
 	border-top-right-radius: 3px;
 	border-bottom-right-radius: 3px;
@@ -7259,7 +7271,7 @@
 .parallax_section17 a {
 	float: right;
 	color: #fff;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 16px;
 	font-weight: 500;
 	padding: 14px 35px;
@@ -8492,7 +8504,7 @@ ul.footer_social_links5 {
 
 .title36 {
 	font-weight: 800;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 .title36 em {
 	font-size: 21px;
@@ -9674,7 +9686,7 @@ ul.adsbanner-list {
 	background: #9eca45;
 	border: 1px solid #7ea821;
 	border-radius: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	cursor: pointer;
 	transition: all 0.3s ease;
 }
@@ -9693,7 +9705,7 @@ ul.adsbanner-list {
 	background: #d2527f;
 	border: 1px solid #d2527f;
 	border-radius: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	cursor: pointer;
 	transition: all 0.3s ease;
 }
@@ -9712,7 +9724,7 @@ ul.adsbanner-list {
 	background: #db6364;
 	border: 1px solid #db6364;
 	border-radius: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	cursor: pointer;
 	transition: all 0.3s ease;
 }
@@ -9805,7 +9817,7 @@ ul.adsbanner-list {
 	background: #9eca45;
 	border: 1px solid #9eca45;
 	border-radius: 3px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	cursor: pointer;
 	transition: all 0.3s ease;
 }
@@ -9863,7 +9875,7 @@ ul.adsbanner-list {
 	background: #393939;
 	border: 1px solid #393939;
 	border-radius: 0px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
 	cursor: pointer;
 	transition: all 0.3s ease;
@@ -9927,7 +9939,7 @@ ul.adsbanner-list {
 	background: #6f6f75;
 	border: 1px solid #6f6f75;
 	border-radius: 0px;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
 	cursor: pointer;
 	transition: all 0.3s ease;
@@ -10019,7 +10031,7 @@ ul.adsbanner-list {
 	font-size: 13px;
 	font-weight: bold;
 	text-transform: uppercase;
-	font-family: 'Blinker', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	transition: all 0.3s ease;
 	margin-top: 18px;
 }
