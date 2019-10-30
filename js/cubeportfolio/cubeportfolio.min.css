@@ -161,15 +161,15 @@ transition:height .4s ease!important
 }
 .cbp-l-caption-title {
 	color:#fff;
-	font:400 16px/20px "Open Sans", sans-serif
+	font:400 16px/20px "Poppins", sans-serif
 }
 .cbp-l-caption-desc {
 	color:#aaa;
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	margin-top:2px
 }
 .cbp-l-caption-text {
-	font:400 14px/21px "Open Sans", sans-serif;
+	font:400 14px/21px "Poppins", sans-serif;
 	color:#fff;
 	letter-spacing:3px
 }
@@ -177,7 +177,7 @@ transition:height .4s ease!important
 	background-color:#fff;
 	color:#393939;
 	display:inline-block;
-	font:400 12px/30px "Open Sans", sans-serif;
+	font:400 12px/30px "Poppins", sans-serif;
 	width:90px;
 	text-align:center;
 	margin:4px;
@@ -458,7 +458,7 @@ transition:opacity .6s cubic-bezier(0.19, 1, .22, 1)
 .cbp-l-filters-alignCenter .cbp-filter-item {
 	color:#949494;
 	cursor:pointer;
-	font:400 13px/21px "Open Sans", sans-serif;
+	font:400 13px/21px "Poppins", sans-serif;
 	padding:0 12px;
 transition:all .3s ease-in-out;
 	position:relative;
@@ -477,7 +477,7 @@ transition:all .3s ease-in-out;
 	background:#626161;
 	border-radius:3px;
 	color:#FFF;
-	font:400 11px/18px "Open Sans", sans-serif;
+	font:400 11px/18px "Poppins", sans-serif;
 	margin:0 auto;
 	padding:4px 0;
 	text-align:center;
@@ -520,7 +520,7 @@ transition:all .25s ease
 	background-color:#fff;
 	border:1px solid #cdcdcd;
 	cursor:pointer;
-	font:400 12px/30px "Open Sans", sans-serif;
+	font:400 12px/30px "Poppins", sans-serif;
 	padding:0 13px;
 	position:relative;
 	overflow:visible;
@@ -550,7 +550,7 @@ transition:all .2s ease-in-out
 	background-color:transparent;
 	color:#8B8B8B;
 	cursor:pointer;
-	font:400 11px/29px "Open Sans", sans-serif;
+	font:400 11px/29px "Poppins", sans-serif;
 	padding:0 12px;
 	position:relative;
 	overflow:visible;
@@ -574,7 +574,7 @@ transition:all .3s ease-in-out
 	background:#049372;
 	border-radius:3px;
 	color:#fff;
-	font:400 11px/18px "Open Sans", sans-serif;
+	font:400 11px/18px "Poppins", sans-serif;
 	margin:0 auto;
 	padding:4px 0;
 	text-align:center;
@@ -619,7 +619,7 @@ transition:opacity .25s ease, bottom .25s ease
 	border-radius:2px;
 	color:#888;
 	cursor:pointer;
-	font:400 12px/29px "Open Sans", sans-serif;
+	font:400 12px/29px "Poppins", sans-serif;
 	margin:10px 10px 0 0;
 	overflow:visible;
 	padding:0 17px;
@@ -646,7 +646,7 @@ transition:all .3s ease-in-out
 	background-color:#4D4C4D;
 	border-radius:3px;
 	color:#fff;
-	font:400 11px/18px "Open Sans", sans-serif;
+	font:400 11px/18px "Poppins", sans-serif;
 	margin:0 auto;
 	padding:4px 0;
 	text-align:center;
@@ -761,7 +761,7 @@ transition:opacity .25s ease, bottom .25s ease
 	background:#3288C4
 }
 .cbp-l-filters-dropdownHeader {
-	font:400 12px/38px "Open Sans", sans-serif;
+	font:400 12px/38px "Poppins", sans-serif;
 	margin:0 17px;
 	color:#FFF;
 	cursor:default;
@@ -801,7 +801,7 @@ transition:opacity .25s ease, bottom .25s ease
 	color:#9FBCE7;
 	width:100%;
 	text-align:left;
-	font:400 12px/40px "Open Sans", sans-serif;
+	font:400 12px/40px "Poppins", sans-serif;
 	margin:0;
 	padding:0 17px;
 	cursor:pointer;
@@ -828,7 +828,7 @@ transition:opacity .25s ease, bottom .25s ease
 	background-color:transparent;
 	color:#585252;
 	cursor:pointer;
-	font:400 12px/35px "Open Sans", sans-serif;
+	font:400 12px/35px "Poppins", sans-serif;
 	padding:0 18px;
 	position:relative;
 	overflow:visible;
@@ -872,7 +872,7 @@ border-right-width:1px
 	background-color:#FFF;
 	color:#888;
 	cursor:pointer;
-	font:600 11px/37px "Open Sans", sans-serif;
+	font:600 11px/37px "Poppins", sans-serif;
 	margin:10px 5px 0 0;
 	overflow:visible;
 	padding:0 16px;
@@ -892,7 +892,7 @@ transition:all .3s ease-in-out
 	cursor:default
 }
 .cbp-l-filters-work .cbp-filter-counter {
-	font:600 11px/37px "Open Sans", sans-serif;
+	font:600 11px/37px "Poppins", sans-serif;
 	text-align:center;
 	display:inline-block;
 	margin-left:8px
@@ -2304,14 +2304,14 @@ opacity:0
 }
 .cbp-popup-lightbox-title {
 	padding-right:70px;
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	color:#eee
 }
 .cbp-popup-lightbox-counter {
 	position:absolute;
 	top:0;
 	right:0;
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	color:#eee
 }
 .cbp-popup-lightbox-img {
@@ -2379,7 +2379,7 @@ width:95%
 	right:40px;
 	top:0;
 	bottom:0;
-	font:400 13px/30px "Open Sans", sans-serif;
+	font:400 13px/30px "Poppins", sans-serif;
 	height:30px
 }
 @media only screen and (max-width:768px) {
@@ -2551,7 +2551,7 @@ transition:left .6s ease-in-out
 }
 .cbp-l-project-title {
 	color:#454444;
-	font:600 42px/46px "Open Sans", sans-serif;
+	font:600 42px/46px "Poppins", sans-serif;
 	letter-spacing:2px;
 	margin-bottom:15px;
 	text-align:center;
@@ -2559,7 +2559,7 @@ transition:left .6s ease-in-out
 }
 .cbp-l-project-subtitle {
 	color:#787878;
-	font:400 14px/21px "Open Sans", sans-serif;
+	font:400 14px/21px "Poppins", sans-serif;
 	margin:0 auto 50px;
 	max-width:500px;
 	text-align:center
@@ -2616,11 +2616,11 @@ padding-left:0
 	border-bottom:1px solid #747474;
 	display:inline-block;
 	margin:0 0 -1px;
-	font:400 16px/36px "Open Sans", sans-serif;
+	font:400 16px/36px "Poppins", sans-serif;
 	padding:0 5px 0 0
 }
 .cbp-l-project-desc-text {
-	font:400 13px/20px "Open Sans", sans-serif;
+	font:400 13px/20px "Poppins", sans-serif;
 	color:#555;
 	margin-bottom:20px
 }
@@ -2633,7 +2633,7 @@ padding-left:0
 	border-bottom:1px dotted #DFDFDF;
 	padding:inherit;
 	color:#666;
-	font:400 12px/30px "Open Sans", sans-serif
+	font:400 12px/30px "Poppins", sans-serif
 }
 .cbp-l-project-details-list strong {
 	display:inline-block;
@@ -2646,7 +2646,7 @@ padding-left:0
 	float:right;
 	clear:both;
 	text-decoration:none;
-	font:400 11px/18px "Open Sans", sans-serif;
+	font:400 11px/18px "Poppins", sans-serif;
 	margin-top:10px;
 	background-color:#53668A;
 	padding:8px 19px
@@ -2668,7 +2668,7 @@ padding-left:0
 	margin-right:0
 }
 .cbp-l-project-related-title {
-	font:700 14px/18px "Open Sans", sans-serif;
+	font:700 14px/18px "Poppins", sans-serif;
 	color:#474747;
 	margin-top:20px
 }
@@ -2707,16 +2707,16 @@ padding-left:0
 }
 }
 .cbp-l-member-name {
-	font:400 28px/28px "Open Sans", sans-serif;
+	font:400 28px/28px "Poppins", sans-serif;
 	color:#474747
 }
 .cbp-l-member-position {
-	font:400 13px/21px "Open Sans", sans-serif;
+	font:400 13px/21px "Poppins", sans-serif;
 	color:#888;
 	margin-top:6px
 }
 .cbp-l-member-desc {
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	margin-top:25px;
 	color:#474747
 }
@@ -2841,16 +2841,16 @@ margin-top:20px
 }
 }
 .cbp-l-inline-title {
-	font:400 28px/30px "Open Sans", sans-serif;
+	font:400 28px/30px "Poppins", sans-serif;
 	color:#474747
 }
 .cbp-l-inline-subtitle {
-	font:400 14px/21px "Open Sans", sans-serif;
+	font:400 14px/21px "Poppins", sans-serif;
 	color:#888;
 	margin-top:7px
 }
 .cbp-l-inline-desc {
-	font:400 14px/20px "Open Sans", sans-serif;
+	font:400 14px/20px "Poppins", sans-serif;
 	color:#474747;
 	margin-top:25px
 }
@@ -2858,7 +2858,7 @@ margin-top:20px
 	text-align:right
 }
 .cbp-l-inline-view {
-	font:400 13px/35px "Open Sans", sans-serif;
+	font:400 13px/35px "Poppins", sans-serif;
 	color:#9C9C9C;
 	margin-top:40px;
 	display:inline-block;
@@ -2871,7 +2871,7 @@ margin-top:20px
 }
 .cbp-l-inline-details {
 	margin-top:15px;
-	font:13px/22px "Open Sans", sans-serif
+	font:13px/22px "Poppins", sans-serif
 }
 .cbp-l-loadMore-button {
 	text-align:center
@@ -2881,7 +2881,7 @@ margin-top:20px
 	border-radius:2px;
 	color:#7E7B7B;
 	display:inline-block;
-	font:400 11px/34px "Open Sans", sans-serif;
+	font:400 11px/34px "Poppins", sans-serif;
 	min-width:80px;
 	text-decoration:none;
 	padding:0 20px;
@@ -2920,7 +2920,7 @@ margin-top:20px
 	margin-top:30px
 }
 .cbp-l-loadMore-text .cbp-l-loadMore-text-link {
-	font:400 16px "Open Sans", sans-serif;
+	font:400 16px "Poppins", sans-serif;
 	color:#5D5D5D;
 	text-decoration:none;
 	cursor:default
@@ -3140,7 +3140,7 @@ transition:background .5s
 	color:#365D67
 }
 .cbp-l-grid-work-desc {
-	font:400 11px/16px "Open Sans", sans-serif;
+	font:400 11px/16px "Poppins", sans-serif;
 	color:#888;
 	text-align:center;
 	text-transform:uppercase
@@ -3164,7 +3164,7 @@ transition:background .5s
 	margin-bottom:18px
 }
 .cbp-l-grid-blog-title {
-	font:400 18px/28px "Open Sans", sans-serif;
+	font:400 18px/28px "Poppins", sans-serif;
 	color:#444;
 	display:block
 }
@@ -3172,12 +3172,12 @@ transition:background .5s
 	color:#787878
 }
 .cbp-l-grid-blog-date {
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	color:#787878;
 	display:inline-block
 }
 .cbp-l-grid-blog-comments {
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	color:#3C6FBB;
 	display:inline-block
 }
@@ -3185,13 +3185,13 @@ transition:background .5s
 	opacity:.8
 }
 .cbp-l-grid-blog-desc {
-	font:400 13px/18px "Open Sans", sans-serif;
+	font:400 13px/18px "Poppins", sans-serif;
 	color:#9B9B9B;
 	margin-top:9px
 }
 .cbp-l-grid-blog-split {
 	margin:0 4px;
-	font:400 13px/16px "Open Sans", sans-serif;
+	font:400 13px/16px "Poppins", sans-serif;
 	color:#787878;
 	display:inline-block
 }
@@ -3203,11 +3203,11 @@ transition:background .5s
 	margin-bottom:17px
 }
 .cbp-l-grid-projects-title {
-	font:700 14px/18px "Open Sans", sans-serif;
+	font:700 14px/18px "Poppins", sans-serif;
 	color:#474747
 }
 .cbp-l-grid-projects-desc {
-	font:400 12px/18px "Open Sans", sans-serif;
+	font:400 12px/18px "Poppins", sans-serif;
 	color:#888;
 	margin-top:6px
 }
@@ -3271,7 +3271,7 @@ transition:background .5s
 	border:1px solid #E7E7E7
 }
 .cbp-l-grid-team-name {
-	font:400 17px/26px "Open Sans", sans-serif;
+	font:400 17px/26px "Poppins", sans-serif;
 	color:#456297;
 	display:block;
 	text-align:center
@@ -3280,7 +3280,7 @@ transition:background .5s
 	color:#34425C
 }
 .cbp-l-grid-team-position {
-	font:italic 400 13px/21px "Open Sans", sans-serif;
+	font:italic 400 13px/21px "Poppins", sans-serif;
 	color:#888;
 	text-align:center
 }
@@ -3371,7 +3371,7 @@ transition:background .5s
 	color:#222
 }
 .cbp-l-grid-agency-desc {
-	font:400 12px/21px "Open Sans", sans-serif;
+	font:400 12px/21px "Poppins", sans-serif;
 	color:#aaa;
 	text-align:center
 }

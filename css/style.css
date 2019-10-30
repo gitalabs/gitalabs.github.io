@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 #app{
 	font-weight: bold;
-	color: #004d40;
+	color: #37474f;
 }
 
 #logoimg{
@@ -83,7 +83,7 @@
 .content_fullwidth h1{
 	text-align: center;
 	font-family: "Cabin Sketch";
-	color: #2e7d32;
+	color: #455a64;
 }
 
 .content_fullwidth #app{
@@ -91,7 +91,7 @@
 	font-family: 'Poppins', sans-serif;
 	font-size: 14pt;
 	font-weight: bold;
-	color: #004d40;
+	color: #37474f;
 }
 
 .content_fullwidth.less {
