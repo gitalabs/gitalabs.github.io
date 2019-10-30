@@ -616,7 +616,7 @@ transition:opacity .25s ease, bottom .25s ease
 .cbp-l-filters-button .cbp-filter-item {
 	background-color:#FFF;
 	border:2px solid #ECECEC;
-	border-radius:2px;
+	border-radius:20px;
 	color:#888;
 	cursor:pointer;
 	font:400 12px/29px "Poppins", sans-serif;
@@ -640,12 +640,13 @@ transition:all .3s ease-in-out
 	background-color:#4D4C4D;
 	color:#fff;
 	border-color:#4D4C4D;
+	border-radius:20px;
 	cursor:default
 }
 .cbp-l-filters-button .cbp-filter-counter {
-	background-color:#4D4C4D;
-	border-radius:3px;
-	color:#fff;
+	background-color:#fff;
+	border-radius:20px;
+	color:#4D4C4D;
 	font:400 11px/18px "Poppins", sans-serif;
 	margin:0 auto;
 	padding:4px 0;
@@ -671,7 +672,7 @@ transition:opacity .25s ease, bottom .25s ease
 	height:0;
 	border-left:4px solid transparent;
 	border-right:4px solid transparent;
-	border-top:4px solid #4D4C4D;
+	border-top:4px solid rgb(255, 255, 255);
 	display:none
 }
 .cbp-l-filters-button .cbp-filter-item:hover .cbp-filter-counter:before {
@@ -710,7 +711,7 @@ transition:all .3s ease-in-out
 }
 .cbp-l-filters-buttonCenter .cbp-filter-counter {
 	background-color:#68ABBC;
-	border-radius:3px;
+	border-radius:20px;
 	color:#fff;
 	font:400 11px/18px Roboto, sans-serif;
 	margin:0 auto;
@@ -953,9 +954,9 @@ transition:all .3s ease-in-out;
 	cursor:default
 }
 .cbp-l-filters-text .cbp-filter-counter {
-	background:#626161;
-	border-radius:3px;
-	color:#FFF;
+	background:#FFF;
+	border-radius:20px;
+	color:#626161;
 	font:400 11px/16px Lato, sans-serif;
 	margin:0 auto;
 	padding:4px 0;
