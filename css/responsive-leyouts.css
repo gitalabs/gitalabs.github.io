@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    #logoimg{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+    .container {
+        width: 95%;
+        margin: auto;
+    }
+    .content_fullwidth {
+        padding: 50px 0px 0px 0px;
+    }
+}
